@@ -203,7 +203,7 @@ jobs:
         shell: bash
         env:
           CHAVE: ${{ secrets.WEBHOOK_TOKEN }}
-          REPO_DEV: ${{ secrets.REPO_DEV }}
+          REPO_DEV: ${{ secrets.REPO_UNSTABLE }}
           BigLinuxAur_TOKEN: ${{ secrets.BigLinuxAur_TOKEN }}
         run: |
           useradd builduser -m
