@@ -1,0 +1,456 @@
+# ananicy-cpp  #moveToGit
+# #audacity-wxgtk2  #removed
+# auto-cpufreq  #moveToGit
+# cfs-zen-tweaks  #moveToGit
+# classik  #moveToGit
+# cpu-x  #moveToGit
+# gconf  #REMOVED
+# gnome-alsamixer  #moveToGit
+# hardinfo-gtk3  #moveToGit
+# hunspell-pt-br  #moveToGit
+# hw-probe  #moveToGit
+# icu55  #moveToGit
+# ideviceinstaller  #moveToGit
+# jamesdsp  #moveToGit
+# jdownloader2  #moveToGit
+# kazam  #moveToGit
+# libkipi  #moveToGit
+# libreoffice-extension-vero  #moveToGit
+# lightly-git  #moveToGit
+# mawk  #moveToGit
+# ocrmypdf  #moveToGit
+# openrgb  #moveToGit
+# pymobiledevice-git  #moveToGit
+# python-bpylist2  #moveToGit
+# python-coloredlogs  #moveToGit
+#python-pyclip #script-separado
+# sc-controller  #moveToGit
+# start-stop-daemon  #moveToGit
+# systemd-oomd-defaults  #moveToGit
+# vmtouch  #moveToGit
+# android-studio  #moveToGit
+# insync  #moveToGit
+# insync-dolphin  #moveToGit
+# # #linux515-nvidia-340xx
+# # #linux-hardened-nvidia-340xx
+# # #lib32-nvidia-340xx-utils
+# # #nvidia-340xx-utils
+# goverlay-bin  #moveToGit
+# taglib-extras  #moveToGit
+# amarok  #moveToGit
+# rtapp  #moveToGit
+# youtube-dl-gui  #moveToGit
+# aether.lv2  #moveToGit
+# kxstitch  #moveToGit
+# lightzone  #moveToGit
+# rgb2cmyk  #moveToGit
+# makehuman  #moveToGit
+# gb-studio-bin  #moveToGit
+# brlcad  #moveToGit
+# linux-lqx  #moveToGit
+# wxwidgets-gtk2  #moveToGit
+# wxgtk2.8  #moveToGit
+# losslesscut-bin  #moveToGit
+# natron-bin  #moveToGit
+# cinelerra-gg  #moveToGit
+# stremiov  #moveToGit
+# webtorrent-desktop-bin  #moveToGit
+# freetube-bin  #moveToGit
+# deadbeef  #moveToGit
+# great-little-radio-player  #moveToGit
+# goodvibes  #moveToGit
+# butt  #moveToGit
+# jellyfin  #moveToGit
+# jellyfin-media-player  #moveToGit
+# grapejuice  #moveToGit
+# libglibutil  #moveToGit
+# libgbinder  #moveToGit
+# python-gbinder  #moveToGit
+# kde-snap-assist  #moveToGit
+# psautohint  #moveToGit
+# python2  #moveToGit
+# kwin-scripts-forceblur  #moveToGit
+# qtscrcpy  #moveToGit
+# guiscrcpy  #moveToGit
+# python-pynput  #moveToGit
+# qpdfview  #moveToGit
+# whatsie  #moveToGit
+# featherpad-qt5  #moveToGit
+# ly  #moveToGit
+# nsync  #moveToGit
+# python-mediapipe  #moveToGit
+# python-playsound  #moveToGit
+# uresourced  #moveToGit
+# 64gram-desktop  #moveToGit
+# breeze-extended  #moveToGit
+# kdenlive-appimage  #moveToGit
+# qt5-webkit  #moveToGit
+# waydroid  #moveToGit
+# wine-lol-bin  #moveToGit
+# macast-bin  #moveToGit
+# linux-wifi-hotspot  #moveToGit
+# python-steam  #moveToGit
+# python-vdf  #moveToGit
+# simplescreenrecorder  #moveToGit
+# yay  #moveToGit
+# gkrellm-themes  #moveToGit
+# bootstrap  #moveToGit
+# xsnow  #moveToGit
+# python-cinemagoer  #moveToGit
+# hypnotixv  #moveToGit
+# circle-flags  #moveToGit
+# paru  #moveToGit  #moveToGit
+# gyroflow-bin  #moveToGit
+# envycontrol  #moveToGit
+# lib32-libxpm  #moveToGit
+# inkstitch  #moveToGit
+# qdirstat  #moveToGit
+# openlens-bin  #moveToGit
+# iriunwebcam-bin  #moveToGit
+# opentofu  #moveToGit
+# lib32-faudio  #moveToGit
+#python-sysv_ipc  #moveToGit
+# stl-thumb  #moveToGit
+# stl-thumb-kde  #moveToGit
+# faudio  #moveToGit
+# lib32-faudio  #moveToGit
+# clipboard-sync  #moveToGit
+# openboard  #moveToGit
+
+
+
+##Plasma5##
+##plasma5-applets-eventcalendar
+#plasma5-applets-latte-spacer
+##plasma5-applets-latte-separator
+#plasma5-applets-netspeed
+#plasma5-applets-resources-monitor
+#plasma5-applets-virtual-desktop-bar-git
+#plasma5-applets-window-appmenu
+#plasma5-applets-window-title
+
+
+# ##Plasma##   #moveToGit
+# plasma6-applets-window-title   #moveToGit
+# plasma6-applets-netspeed   #moveToGit
+# plasma6-applets-resources-monitor   #moveToGit
+# plasma6-applets-panel-colorizer   #moveToGit
+# plasma6-applets-window-buttons   #moveToGit
+
+
+# #bigstore-categorias   #moveToGit
+# syncthing-gtk  #moveToGit
+# fotoxx  #moveToGit
+# mailspring  #moveToGit
+# sylpheed  #moveToGit
+# abuse  #moveToGit
+# acetoneiso2  #moveToGit
+# gamehub  #moveToGit
+# perl-alien-sdl  #moveToGit
+# radiotray-ng  #moveToGit
+# sdl_pango  #moveToGit
+# streamtuner2  #moveToGit
+# cudatext-gtk2-bin  #moveToGit
+# cudatext-qt5-bin  #moveToGit
+# mongodb-tools  #moveToGit
+# wings3d  #moveToGit
+# trojita  #moveToGit
+# balena-etcher-appimage  #moveToGit
+# shortwave  #moveToGit
+# libsearpc  #moveToGit
+# seafile  #moveToGit
+# seafile-client  #moveToGit
+# cloudcross  #moveToGit
+# pythonqt  #moveToGit
+# tuner  #moveToGit
+# sdl2-gamepad-mapper  #moveToGit
+# screencloud  #moveToGit
+# sdl_pango  #moveToGit
+# perl-alien-sdl  #moveToGit
+# python-pyo  #moveToGit
+# mongodb-bin  #moveToGit
+# mongosh-bin  #moveToGit
+# cecilia  #moveToGit
+# cura-bin  #moveToGit
+# kvantum-theme-libadwaita-git  #moveToGit
+# frozen-bubble  #moveToGit
+# #perl-sdl  #moveToGit
+# sndcpy-bin  #moveToGit
+# usbaudio-git  #moveToGit
+# vdu_controls  #moveToGit
+# rakarrack-plus  #moveToGit
+# clementine  #moveToGit
+
+# #udev  #moveToGit
+# usbasp-udev  #moveToGit
+# trezor-udev  #moveToGit
+# numworks-udev  #moveToGit
+# apple-superdrive-udev  #moveToGit
+# nx-udev  #moveToGit
+# xr-hardware  #moveToGit
+# keepkey-udev  #moveToGit
+# bitbox-udev  #moveToGit
+# adafruit-boards-udev  #moveToGit
+# allow-input-accelerometer-udev  #moveToGit
+# avrisp-udev  #moveToGit
+# btchip-udev  #moveToGit
+# crazyflie-udev  #moveToGit
+# crazyradio-udev  #moveToGit
+# duckypad-udev  #moveToGit
+# mooltipass-udev  #moveToGit
+# nintendo-udev  #moveToGit
+# onlykey-udev  #moveToGit
+# openrgb-udev-rules  #moveToGit
+# osc-udev-storage  #moveToGit
+# signal-hound-udev  #moveToGit
+# stadia-controller-udev  #moveToGit
+# usbtinyisp-udev  #moveToGit
+# qtwebkit  #moveToGit
+# qt4  #moveToGit
+
+# #AI
+# questdb  #moveToGit
+# openvino  #moveToGit
+# #python-paddlepaddle  #moveToGit
+# python-onnxruntime  #moveToGit
+# python-onnx  #moveToGit
+
+# #dependencias-obs-studio-tytan652
+# obs-studio-tytan652  #moveToGit
+# libajantv2  #moveToGit
+# cef-minimal-obs-bin  #moveToGit
+# ftl-sdk  #moveToGit
+# librist  #moveToGit
+# #flac-git #usando-bin-script  #moveToGit
+# vlc-luajit  #moveToGit
+# pod2man  #moveToGit
+# #ffmpeg-obs #portado-para-o-repo  #moveToGit
+# obs-streamfx-git  #moveToGit
+# libdatachannel-nice  #moveToGit
+# plog  #moveToGit
+# libusrsctp  #moveToGit
+# qrcodegen-cmake  #moveToGit
+# chromaprint-fftw  #moveToGit
+# celt  #moveToGit
+# davs2  #moveToGit
+# flite1  #moveToGit
+# libklvanc  #moveToGit
+# lensfun-git  #moveToGit
+# shine  #moveToGit
+# uavs3d-git  #moveToGit
+# vo-amrwbenc  #moveToGit
+# xavs  #moveToGit
+# xavs2  #moveToGit
+# rockchip-mpp  #moveToGit
+# libaribcaption  #moveToGit
+# opencv2  #moveToGit
+
+
+
+
+# #Proton-GE/K-dependencias  #moveToGit
+# python-booleanoperations  #moveToGit
+# python-defcon  #moveToGit
+# python-fontmath  #moveToGit
+# python-fontparts  #moveToGit
+# python-fontpens  #moveToGit
+# python-ufonormalizer  #moveToGit
+# python-ufoprocessor  #moveToGit
+# python-pyclipper  #moveToGit
+# python-mutatormath  #moveToGit
+# mingw-w64-tools  #moveToGit
+# psautohint  #moveToGit
+# lib32-lzo  #moveToGit
+# vkbasalt  #moveToGit
+# proton-ge-custom-bin  #moveToGit
+
+#Kernel
+#linux-xanmod#usando-bin-script
+#linux-xanmod-edge#usando-bin-script
+#linux-xanmod-lts#usando-bin-script
+#linux-xanmod-rt#usando-bin-script
+#linux-xanmod-tt#usando-bin-script
+# linux-cachyos  #moveToGit
+# linux-cachyos-bore  #moveToGit
+# linux-cachyos-tt  #moveToGit
+# #linux-cachyos-cacule   #REMOVED
+# linux-cachyos-bmq  #moveToGit
+# linux-cachyos-pds  #moveToGit
+# linux-cachyos-cfs  #moveToGit
+# linux-cachyos-lts  #moveToGit
+# # linux-zen-515lts   #REMOVED
+# linux-zen-versioned-bin  #moveToGit
+# linux-amd  #moveToGit
+
+#gimp-plugin-resynthesizer-git
+# python2-setuptools  #moveToGit
+# cython2  #moveToGit
+# python2-numpy  #moveToGit
+# libglade  #moveToGit
+# python2-gobject2  #moveToGit
+# pygtk  #moveToGit
+# python2-gimp  #moveToGit
+# gimp-plugin-resynthesizer-git  #moveToGit
+
+
+#Community-Window-Maker
+windowmaker
+wmclock
+tango-icon-theme
+wmsystemtray
+#wmix
+#sevi-icon-theme-blue-dark
+
+#Community-BSPWM
+#catppuccin-wallpapers-git
+nerd-fonts-jetbrains-mono
+betterlockscreen
+catppuccin-cursors-mocha
+catppuccin-gtk-theme-mocha
+papirus-folders-catppuccin-git
+ttf-icomoon-feather
+ksuperkey
+picom-ibhagwan-git
+oranchelo-icon-theme
+i3lock-color
+
+#LXQt
+#lxqt-arc-dark-theme-git
+# qps
+
+
+##COMMUNITY-GNOME
+amberol
+ttf-roboto-slab
+gnome-network-displays
+gdm-settings
+#gnome-shell-extension-pano
+#gnome-shell-extension-blur-my-shell
+# qt5-wayland-decorations  #moveToGit
+#qadwaitadecorations  #script-separado
+
+#---Fora-da-ISO
+#mutter-dynamic-buffering
+#gnome-shell-extension-coverflow-alt-tab-git #empacotado-git-biglinux
+#gnome-shell-extension-vertical-workspaces-git
+gnome-terminal-transparency
+#gnome-shell-extension-ddterm
+#gnome-shell-extension-burn-my-windows
+#otf-bebas-neue-git
+#ttf-abel-regular
+#ttf-economica
+#ttf-material-design-icons-desktop-git
+
+
+##COMMUNITY-DDE
+
+
+#Community-xfce
+# ocs-url  #moveToGit
+# qogir-icon-theme  #moveToGit
+# qogir-gtk-theme  #moveToGit
+# qt5-styleplugins  #moveToGit
+
+# inkscape-git  #moveToGit
+# lib2geom-git  #moveToGit
+
+#Narayan
+# vosk-api  #moveToGit
+# python-srt  #moveToGit
+# python-inputs  #moveToGit
+# protonup-qt  #moveToGit
+# lact  #moveToGit
+
+
+#Jogos
+# heroic-games-launcher-bin  #moveToGit
+# extremetuxracer  #moveToGit
+# gamehub  #moveToGit
+# gtksourceview2  #moveToGit
+# dunedynasty  #moveToGit
+# dunelegacy  #moveToGit
+# freesynd  #moveToGit
+# gpu-screen-recorder-gtk-git  #moveToGit
+# gpu-screen-recorder-git  #moveToGit
+
+
+# #gazebo
+# ignition-cmake  #moveToGit
+# ignition-utils  #moveToGit
+# ignition-tools  #moveToGit
+# ignition-math  #moveToGit
+# urdfdom-headers  #moveToGit
+# console-bridge  #moveToGit
+# urdfdom  #moveToGit
+# #sdformat  #moveToGit
+# ignition-transport  #moveToGit
+# ignition-msgs  #moveToGit
+# ignition-common  #moveToGit
+# ignition-fuel_tools  #moveToGit
+# ignition-cmake-2  #moveToGit
+# ignition-utils-1  #moveToGit
+# ogre-1.9  #moveToGit
+# libccd  #moveToGit
+# ignition-tools-1  #moveToGit
+# ignition-math-6  #moveToGit
+# sdformat-9  #moveToGit
+# ignition-common-3  #moveToGit
+# ignition-msgs-5  #moveToGit
+# ignition-fuel_tools-4v
+# ignition-transport-8  #moveToGit
+# gazebo  #moveToGit
+
+
+
+#ros2
+# python-catkin_pkg  #moveToGit
+# sip4  #moveToGit
+# python-pytest-runner  #moveToGit
+# python-colcon-core  #moveToGit
+# python-empy3  #moveToGit
+# python-rospkg  #moveToGit
+# python-vcstool  #moveToGit
+# python-colcon-pkg-config  #moveToGit
+# python-colcon-bash  #moveToGit
+# python-rosdistro  #moveToGit
+# python-colcon-defaults  #moveToGit
+# python-colcon-recursive-crawl  #moveToGit
+# python-colcon-output  #moveToGit
+# python-colcon-cd  #moveToGit
+# python-colcon-devtools  #moveToGit
+# python-colcon-powershell  #moveToGit
+# python-colcon-parallel-executor  #moveToGit
+# python-colcon-python-setup-py  #moveToGit
+# python-colcon-package-selection  #moveToGit
+# python-colcon-package-information  #moveToGit
+# python-colcon-metadata  #moveToGit
+# python-colcon-notification  #moveToGit
+# python-colcon-zsh  #moveToGit
+# python-colcon-test-result  #moveToGit
+# python-colcon-cmake  #moveToGit
+# python-colcon-library-path  #moveToGit
+# python-colcon-ros  #moveToGit
+# python-rosdep  #moveToGit
+# python-colcon-argcomplete  #moveToGit
+# python-colcon-common-extensions  #moveToGit
+# python-pyqt5-sip4  #moveToGit
+# ros2-arch-deps  #moveToGit
+# ros2-git  #moveToGit
+
+# #turing-smart-screen
+# python-sv-ttk
+# python-pystray
+# python-gputil
+
+
+# #oci-cli  #moveToGit
+# python-circuitbreaker  #moveToGit
+# python-terminaltables  #moveToGit
+# python-oci  #moveToGit
+# oci-cli  #moveToGit
+
+
+
+# #XIVAStudio  #moveToGit
+# tubeamp-designer-git  #moveToGit
+# musescore3  #moveToGit

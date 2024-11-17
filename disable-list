@@ -1,0 +1,52 @@
+#fixName
+qadwaitadecorations
+qt5-wayland-decorations
+cef-minimal-obs-bin
+
+
+# arrumar automato de gerar pkgbuild
+#rustdesk-bin
+
+# obs tytan
+obs-studio-tytan652
+vlc-luajit
+gtkglext
+libajantv2
+
+
+#errorBuild
+python2-gimp
+vosk-api
+dsnote
+ros2-git
+gazebo
+frozen-bubble
+
+#estavaDesabilitadoAntes
+perl-sdl
+
+openvino
+
+# linux-cachyos
+# linux-cachyos-bore
+# linux-cachyos-tt
+# linux-cachyos-bmq
+# linux-cachyos-pds
+# linux-cachyos-cfs
+# linux-cachyos-lts
+# linux-zen-versioned-bin
+# linux-amd
+
+
+
+
+# Scripts Separados
+mesa-tkg-git
+
+
+
+
+
+
+
+
